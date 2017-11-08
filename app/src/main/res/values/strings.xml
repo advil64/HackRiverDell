@@ -5,4 +5,6 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+    <string name="wake_up">WAKE UP!</string>
+    <string name="the_wake_up_app">The Wake Up App</string>
 </resources>
